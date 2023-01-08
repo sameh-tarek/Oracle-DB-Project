@@ -1,5 +1,5 @@
 
-/*users table
+users table
 create table users (user_id number(9) NOT NULL,
                     first_name varchar(10) Not Null,
                     last_name varchar(10) Not Null,
@@ -7,7 +7,7 @@ create table users (user_id number(9) NOT NULL,
                     email varchar(30) ,
                   CONSTRAINT user_id PRIMARY KEY (user_id));
 select * from  users; 
-*/
+
   /* table employees          
 create table employees(employee_id number(9) NOT NULL,
                     first_name varchar(10) Not Null,

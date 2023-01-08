@@ -1,6 +1,6 @@
 # Oracle-DB-Project
 
-**The oracle sql project is a system for the car rental shop.**
+**oracle sql project is a system for the car rental shop.**
 
 **It was made by me and my team of five.**
 

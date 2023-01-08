@@ -7,7 +7,7 @@
 .This is the login page for admins:
 ![Screenshot (808)](https://user-images.githubusercontent.com/108232157/211176435-dcf866b7-6aae-473f-9c58-149bbd189ca1.png)
 
-**.If he forgot to write the password:**
+.If he forgot to write the password:
 ![Screenshot (809)](https://user-images.githubusercontent.com/108232157/211176482-d52bf739-641f-480d-a608-b727ad0283b5.png)
 
 .If he wrote the wrong password:
@@ -22,13 +22,13 @@
 .The car is stored in the database:
 ![Screenshot (818)](https://user-images.githubusercontent.com/108232157/211176645-36e71ea3-116b-4513-96a9-ba82d56628db.png)
 
-**.If he chooses to add order:**
+.If he chooses to add order:
 **he add user at first:**
 ![Screenshot (822)](https://user-images.githubusercontent.com/108232157/211176734-ca64e727-1114-4e2b-8bbc-636e5b7e9f09.png)
-**Then the order is recorded for the user:**
+Then the order is recorded for the user:
 ![Screenshot (813)](https://user-images.githubusercontent.com/108232157/211176756-f16a90c9-a10f-43dd-bc4e-e3d4a57d5dff.png)
 
-**.if he coose search for car:**
+.if he choose search for car:
 ![Screenshot (814)](https://user-images.githubusercontent.com/108232157/211176783-94ab12ff-dac7-4c20-b27a-1f6434691f68.png)
 
 if he choose search for order:

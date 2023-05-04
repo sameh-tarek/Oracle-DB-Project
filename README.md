@@ -2,7 +2,7 @@
 
 **oracle sql project is a system for the car rental shop.**
 
-**It was made by me and my team of five.**
+**It was made by me and my team of five**
 
 
 .This is the login page for admins:
